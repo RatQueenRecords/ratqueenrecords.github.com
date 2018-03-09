@@ -1,0 +1,21 @@
+body {
+    background-image: url(bigcloud.jpg);
+    background-color: lightskyblue;
+    font-family: 'Oswald', sans-serif;
+    color: blanchedalmond;
+}
+
+.header {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Lemon', cursive;
+    letter-spacing: 10px;
+    font-size: 50px;
+
+}
+
+.main {
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 30px;
+}
